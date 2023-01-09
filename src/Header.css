@@ -1,0 +1,14 @@
+.Header {
+    background-color: grey;
+    height: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+}
+
+li {
+    float: left;
+    padding: 10px;
+}
